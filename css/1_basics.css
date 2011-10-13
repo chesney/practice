@@ -1,0 +1,31 @@
+/*
+ * CSS - Basics
+ * Text font, font types (font family), Sans & Sans-seriff
+ * Text decorations, colors etc.
+ */
+
+.font
+{
+  font-family : "Arial", Arial, sans-seriff;
+}
+
+.uppercase
+{
+  text-transform : uppercase;
+}
+
+.lowercase
+{
+  text-transform : lowercase;
+}
+
+.size
+{
+  font-size : 20px; 
+}
+
+#title
+{
+  color : blue;
+}
+
