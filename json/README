@@ -1,0 +1,17 @@
+About JSON :
+
+JSON is purely meant to be a data description language. Per http://www.json.org, it is a "lightweight data-interchange format." - not a programming language.
+
+Per http://en.wikipedia.org/wiki/JSON, the "basic types" supported are:
+
+Number (integer, real, or floating point)
+String (double-quoted Unicode with backslash escaping)
+Boolean (true and false)
+Array (an ordered sequence of values, comma-separated and enclosed in square brackets)
+Object (collection of key:value pairs, comma-separated and enclosed in curly braces)
+null
+
+====================================================
+NO - You cannot add functions to JSON text object or
+expect JSON to parse functions in a javascript object
+====================================================
