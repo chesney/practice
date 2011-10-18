@@ -1,0 +1,135 @@
+/*
+    Groundswell web site CSS
+    table version
+    by Bill Weinman
+    developed for XHTML/HTML EssT at lynda.com
+*/
+
+/* ===== global styles ===== */
+
+body {
+    font-family: "Trebuchet MS", sans-serif;
+    background: #bbb url(../images/page_background.jpg);
+    margin: 0;
+    padding: 0;
+}
+
+p, h1, h2, h3, h4, h5, h6, li {
+    margin: 1ex 1em;
+}
+
+table {
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+tr, td {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+}
+
+/* ===== outer table ===== */
+
+#outerTable {
+    margin: 0 auto;
+    width: 770px;
+    background: #fff url(../images/banner.jpg) no-repeat;
+}
+
+/* ===== contact button ===== */
+
+td#contactButton {
+    height: 55px;
+}
+
+#contactButton div {
+    height: 30px;
+    margin: 0 0 0 650px;
+    padding: 0;
+}
+
+#contactButton img {
+    margin: 0;
+    border: none;
+}
+
+/* ===== main menu ===== */
+
+td#mainMenu {
+    height: 55px;
+    vertical-align: bottom;
+}
+
+#mainMenu div {
+    height: 30px;
+    margin-left: 300px;
+    padding: 0;
+}
+
+#mainMenu img {
+    margin: 0 5px;
+    border: none;
+}
+
+/* ===== main content (left column) ===== */
+
+td#contentLeft {
+    background-color: #fff;
+    width: 505px;
+}
+
+div#mainContent {
+    padding: 0 15px;
+    margin: 0;
+}
+
+#mainContent p {
+    font-family: Georgia, serif;
+    font-size: .9em;
+    line-height: 1.4em;
+    margin-left: 0;
+}
+
+#mainContent h1, #mainContent h2, #mainContent h3, #mainContent h4 {
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+#mainContent h1 {
+    font-size: 1.6em;
+    font-weight: bold;
+    color: #1b9d95;
+    margin: 0 0 .4em 0;
+}
+
+/* ===== sidebar (right column) ===== */
+
+td#contentRight {
+    background-color: #fff;
+    width: 265px;
+}
+
+div#sideBar {
+    padding: 0 10px;
+    border-left: 1px solid #999;
+}
+
+#contentRight p {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: .8em;
+    line-height: 1.2em;
+    color: #666;
+    margin: 0 0 3ex 0;
+}
+
+#contentRight h3 {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 1em;
+    color: #1b9d95;
+    margin: 1ex 0 .5ex 0;
+ }
+
+
+

@@ -1,0 +1,44 @@
+/* 02-tables.css
+   CSS file for XHTML/HTML tables lesson on lynda.com
+   by Bill Weinman
+   updated 2009-05-27 bw
+   (c) 2002-2009 BGH LLC (http://bhg.bw.org/)
+
+   This is free software, you may use it and re-distribute it
+   as you wish. Please keep this header intact. 
+*/
+
+body {
+  background: #fff;
+  font-family: tahoma, sans-serif;
+  font-size: 80%;
+}
+
+table {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #999;
+}
+
+caption {
+  font-weight: bold;
+  padding: 5px 3px;
+}
+
+th {
+  text-align: left;
+  font-weight: bold;
+  color: #666;
+}
+
+td {
+  vertical-align: top;
+  padding: 1px 5px 1px 2px;
+}
+
+tr.grey { background-color: #ccc }
+tr.white { background-color: #fff }
+
+td.artist { color: #606 }
+td.title { font-style: italic }
+td.comment { color: #003 }

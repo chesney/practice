@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <link rel="stylesheet" type="text/css" href="feedback.css" />
+  <title>Ducks In A Row Feedback Form</title>
+</head>
+
+<body text="#666633" bgcolor="#cccc99">
+  <img src="feedback.gif" alt="Feedback" />
+  <p class="text">Help us keep our ducks in a row.</p>
+
+  <form method="post" action="http://bw.org/misc/cgi-test/test.cgi">
+    <table>
+      <tr>
+        <td class="label">Your Name</td>
+        <td class="form"><input name="Name" type="text" /></td>
+      </tr>
+
+      <tr>
+        <td class="label">Email Address</td>
+        <td class="form"><input name="Email" type="text" /></td>
+      </tr>
+
+      <tr>
+        <td class="label">Are You</td>
+        <td class="label">
+          Consumer <input type="radio" name="Retail" value="Consumer" 
+            checked="checked" /> 
+          Retail Store <input type="radio" name="Retail" value="Store" 
+            /><br />
+          Stamp Enthusiast <input type="checkbox" name="Enthusiast" />
+          Professional Artist <input type="checkbox" name="ProArtist" 
+            /><br />
+          Hobbyist <input type="checkbox" name="Hobbyist" />
+          Experienced? <input type="checkbox" name="HendrixFan" />
+        </td>
+      </tr>
+
+      <tr>
+        <td class="label">Other</td>
+        <td class="form"><input name="Other" type="text" /></td>
+      </tr>
+
+      <tr valign="top">
+        <td class="label">Comments</td>
+        <td>
+          <textarea cols="30" rows="5" name="message" class="default"
+            ></textarea>
+        </td>
+      </tr>
+
+      <tr>
+        <td height="20"></td>
+      </tr>
+
+      <tr>
+        <td></td>
+        <td><input type="image" name="submit" src="send.gif" /></td>
+      </tr>
+
+    </table>
+  </form>
+</body>
+</html>

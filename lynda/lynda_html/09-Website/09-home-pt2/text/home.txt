@@ -1,0 +1,68 @@
+Main:
+
+Welcome to Groundswell
+
+What is surf paradise? Is it a place? A state of mind? What does surf paradise mean to you? Groundswell is
+all about finding that place. Whether it's checking out the latest gear, immersing yourself in the surfing
+lifestyle, or watching some of the sickest video this side of the pipeline, we've got you covered. 
+
+On our site you'll find:
+
+    The latest gear
+    Surfing journals
+    Surfing photos
+    Competition videos
+    Surf condition reports
+    ... and much more!
+
+So take off your sandals and wax your board up... you're here.
+
+Latest News
+Simon Craven wins the Maui invitational.
+
+Late July saw some of the best surfing the world has ever seen. The water temperature and currents brought
+perfect conditions for the Maui Invitational and the field wasted no time in shredding last year's scores. When
+the dust settled Simon Craven won his first ever Maui title. Fresh off his win in Australia, it looks like
+Simon's a name we'll be hearing a lot of in the future!
+
+Velosurty releases new board
+
+Up and coming surf shop Velosurty released a their new long board last month. &ldquo;Keerang!&rdquo; echo's the
+super-hero theme of their last long board, &ldquo;Bang-Pow!&rdquo; Artist Kelly Crandle supplies the look and
+feel. This board guarantees a smooth ride and eye-catching looks. In stores next month. While you're at it,
+check out our
+new boards -- link: gear.html
+as well!
+
+Like the new look?
+
+You may have noticed things look a little different here at Groundswell! We'll we decided it was time for a
+change and wanted a fresher look. Thanks to the awesome web techniques we learned from
+lynda.com -- link: http://www.lynda.com
+we were able to completely redesign the site. If you are interested in web design at all you should probably
+check them out -- link: http://www.lynda.com
+as well!
+
+Sidebar:
+
+image: surf1.jpg  200 x 160
+This month's surfer's journal
+
+Josh Cambria pens this month's surfer journal. Check out his month-long surfing experience as he surfs up the
+coast from San Diego up to Ventura. Along the way he meets several celebrities and finds a new favorite board.
+check it out. -- link: lifestyle.html
+
+image: fearless_small.jpg 200 x 68
+Check out our new board
+
+Looking for a hot new board? Check out our new
+<a href="gear/boards.htm">Fearless</a>
+board from legendary shaper Carl Benson.
+
+image: ventura_01_thumb.jpg 200 x 160
+Photos anyone?
+
+Care to check out this month's featured photo gallery? Todd Crampton almost gets run over by wind surfers
+in Ventura and we are there!
+You know you want to watch! -- link: videos.html
+

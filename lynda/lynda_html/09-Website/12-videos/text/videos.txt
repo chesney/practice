@@ -1,0 +1,16 @@
+Main:
+
+<h1> Groundswell TV </h1>
+<p>
+Miss the latest competition? Want to catch up on what Team Groundswell has been up to? Tune into Groundswell
+TV, new videos each month!
+</p>
+
+Sidebar:
+
+<h3>Video Clips</h3>
+<p>
+Check out our latest video series from the Ventura Open Surf Celebration. Groundswell cameras caught all
+the action in case you missed it.
+</p>
+

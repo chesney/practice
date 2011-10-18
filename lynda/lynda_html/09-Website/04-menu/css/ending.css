@@ -1,0 +1,75 @@
+/*
+    Groundswell web site CSS
+    table version
+    by Bill Weinman
+    developed for XHTML/HTML EssT at lynda.com
+*/
+
+/* ===== global styles ===== */
+
+body {
+    font-family: "Trebuchet MS", sans-serif;
+    background: #bbb url(../images/page_background.jpg);
+    margin: 0;
+    padding: 0;
+}
+
+p, h1, h2, h3, h4, h5, h6, li {
+    margin: 1ex 1em;
+}
+
+table {
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+tr, td {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+}
+
+/* ===== outer table ===== */
+
+#outerTable {
+    margin: 0 auto;
+    width: 770px;
+    background: #fff url(../images/banner.jpg) no-repeat;
+}
+
+/* ===== contact button ===== */
+
+td#contactButton {
+    height: 55px;
+}
+
+#contactButton div {
+    height: 30px;
+    margin: 0 0 0 650px;
+    padding: 0;
+}
+
+#contactButton img {
+    margin: 0;
+    border: none;
+}
+
+/* ===== main menu ===== */
+
+td#mainMenu {
+    height: 55px;
+    vertical-align: bottom;
+}
+
+#mainMenu div {
+    height: 30px;
+    margin-left: 300px;
+    padding: 0;
+}
+
+#mainMenu img {
+    margin: 0 5px;
+    border: none;
+}
